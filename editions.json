@@ -175,7 +175,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 7 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex bazzi fonts with full suffix to view this text properly",
+        "comments": "Version 7 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use bazzi fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranbazzi.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranbazzi.min.json"
     },
@@ -185,7 +185,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) and also 'ۭ'(u+06ED)->'ٜ'(u+065c), Please use Quran complex doori fonts with full suffix to view this text properly",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) and also 'ۭ'(u+06ED)->'ٜ'(u+065c), You can use doori fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoori.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoori.min.json"
     },
@@ -255,7 +255,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex qaloon fonts with full suffix to view this text properly",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use qaloon fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqaloon.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqaloon.min.json"
     },
@@ -265,7 +265,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 7 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex qumbul fonts with full suffix to view this text properly",
+        "comments": "Version 7 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use qumbul fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqumbul.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqumbul.min.json"
     },
@@ -275,9 +275,19 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 7, Please use the quran complex shouba fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex shouba fonts with full suffix to view this text properly",
+        "comments": "Version 7, Please use the quran complex shouba fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use shouba fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranshouba.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranshouba.min.json"
+    },
+    "ara_quransimple": {
+        "name": "ara-quransimple",
+        "author": "Quran Simple",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://api.alquran.cloud/v1/quran/quran-simple",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransimple.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransimple.min.json"
     },
     "ara_quransoosi": {
         "name": "ara-quransoosi",
@@ -285,7 +295,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) and also 'ۭ'(u+06ED)->'ٜ'(u+065c), Please use Quran complex soosi fonts with full suffix to view this text properly",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) and also 'ۭ'(u+06ED)->'ٜ'(u+065c), You can use soosi fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosi.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosi.min.json"
     },
@@ -315,9 +325,19 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 13, Please use the quran complex Uthamnic fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex Uthamnic hafs fonts with full suffix to view this text properly",
+        "comments": "Version 13, Please use the quran complex Uthamnic fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use uthamic hafs fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.min.json"
+    },
+    "ara_quranuthmanihaf1": {
+        "name": "ara-quranuthmanihaf1",
+        "author": "Quran Uthmani Hafs No Diacritics",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf1.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf1.min.json"
     },
     "ara_quranwarsh": {
         "name": "ara-quranwarsh",
@@ -325,7 +345,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 8, The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex warsh fonts with full suffix to view this text properly",
+        "comments": "Version 8, The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use warsh fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranwarsh.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranwarsh.min.json"
     },
@@ -338,6 +358,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-sirajtafseer.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-sirajtafseer.min.json"
+    },
+    "ara_sirajtafseernod": {
+        "name": "ara-sirajtafseernod",
+        "author": "Siraj Tafseer No Diacritics",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://quranenc.com",
+        "comments": "Diacritics removed for easier searching",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-sirajtafseernod.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-sirajtafseernod.min.json"
     },
     "asm_shaykhrafeequli_la": {
         "name": "asm-shaykhrafeequli-la",
@@ -2579,6 +2609,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.min.json"
     },
+    "mya_alinuyin": {
+        "name": "mya-alinuyin",
+        "author": "Alin U Yin",
+        "language": "Burmese",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-alinuyin.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-alinuyin.min.json"
+    },
+    "mya_basein": {
+        "name": "mya-basein",
+        "author": "Ba Sein",
+        "language": "Burmese",
+        "direction": "ltr",
+        "source": "http://quran.mmsy.info , Muslim students Myanmar Youth Student and Youth Online Organization",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-basein.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-basein.min.json"
+    },
     "mya_ghazimohammadha": {
         "name": "mya-ghazimohammadha",
         "author": "Ghazi Mohammad Hashim",
@@ -2661,7 +2711,7 @@
     },
     "nld_unknown": {
         "name": "nld-unknown",
-        "author": "Unknown",
+        "author": "Van De Taal",
         "language": "Dutch",
         "direction": "ltr",
         "source": "http://www.qurandatabase.org",
@@ -3558,6 +3608,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-abdulraheemmoha.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-abdulraheemmoha.min.json"
+    },
+    "tel_muhammadazizurr": {
+        "name": "tel-muhammadazizurr",
+        "author": "Muhammad Aziz Ur Rehman",
+        "language": "Telugu",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-muhammadazizurr.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-muhammadazizurr.min.json"
     },
     "tgk_abdolmohammaday_la": {
         "name": "tgk-abdolmohammaday-la",
@@ -4469,6 +4529,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-fatehmuhammadja.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-fatehmuhammadja.min.json"
     },
+    "urd_mahmoodulhassan": {
+        "name": "urd-mahmoodulhassan",
+        "author": "Mahmood Ul Hassan",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "https://dailyayat.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-mahmoodulhassan.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-mahmoodulhassan.min.json"
+    },
     "urd_muhammadhussain": {
         "name": "urd-muhammadhussain",
         "author": "Muhammad Hussain Najafi",
@@ -4498,6 +4568,46 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.min.json"
+    },
+    "urd_muhammadjunagar1": {
+        "name": "urd-muhammadjunagar1",
+        "author": "Muhammad Junagarhi, Muhammad Kazim",
+        "language": "Urdu",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.min.json"
+    },
+    "urd_muhammadkaramsh": {
+        "name": "urd-muhammadkaramsh",
+        "author": "Muhammad Karam Shah Al Azhari",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "https://dailyayat.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadkaramsh.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadkaramsh.min.json"
+    },
+    "urd_muhammadtahirul": {
+        "name": "urd-muhammadtahirul",
+        "author": "Muhammad Tahir Ul Qadri",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "https://irfan-ul-quran.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtahirul.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtahirul.min.json"
+    },
+    "urd_muhammadtaqiusm": {
+        "name": "urd-muhammadtaqiusm",
+        "author": "Muhammad Taqi Usmani",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtaqiusm.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtaqiusm.min.json"
     },
     "urd_syedzeeshanhaid": {
         "name": "urd-syedzeeshanhaid",
